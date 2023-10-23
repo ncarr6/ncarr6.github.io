@@ -6,7 +6,7 @@
 
 <body>
   
-  
+  <div class="bodyody">
   <div class="firstblock">
     <header>
   <h1> Nancy Carr</h1>
@@ -24,7 +24,7 @@
     
        </div>
     </div>
-  <div class="bodyody">
+ 
    <div class="exp-header">
       <h3> Certifications & Clearance </h3>
       </div>
@@ -53,8 +53,10 @@
       
       <div>
       <h3>Clicked </h3>
+         
       <h5>Apprenticeship, Salesforce Administrator</h5>
       <h6>September 2023 – October 2023</h6>
+        
       
        <ul>
          <li>Collaborated with team members using the Agile methodology; efficiently organized and prioritized tasks in Jira to ensure timely project execution.</li>
@@ -92,7 +94,7 @@
       <h3> Education </h3>
       </div>
     
- <div>
+ <div class="education">
    <h5>Bachelor of Science in Biological Sciences </h5>
    <h6>Arizona State University | Expected - April 2025 | GPA: 4.0</h6>
     <h5>Associate of Arts in Liberal Arts and Science</h5>
@@ -100,4 +102,3 @@
     </div>
   </div> 
       </body>
-      
