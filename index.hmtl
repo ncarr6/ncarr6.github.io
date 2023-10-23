@@ -1,1 +1,91 @@
+<body>
+  <div class="firstblock">
+  <h1> Nancy Carr</h1>
+    <p>
+      San Antonio, TX | nancy.l.carr2@gmail.com <a href = "mailto: nancy.l.carr2@gmail.com">Email Me!</a> | 509-699-0432 | <a href="https://linkedin.com/in/nancy-l-carr">LinkedIn</a> | <a href="https://salesforce.com/trailblazer/nancycarr">Trailhead</a>
+ | <a href="https://linkedin.com/in/nancy-l-carr">LinkedIn</a> | <a href="https://myportfolio5-dev-ed.develop.my.site.com/nancycarr/s/">Salesforce Portfolio</a> 
+      
+      
+</p>
+     <div id="typing-effect">
+  
 
+    <script src="script.js"></script>
+  
+    <p>
+    </p>
+       </div>
+    </div>
+  <div class="bodyody">
+   <div class="exp-header">
+      <h3> Certifications & Clearance </h3>
+      </div>
+  
+  <div class="certifications">
+  <p><ul class="two-columns">
+        <li>Salesforce Certified Platform App Builder</li>
+    <li>Salesforce Certified Administrator</li>
+    <li>Salesforce Certified Associate</li>
+    <li>Salesforce Certified Service Cloud Consultant (In Progress)</li>
+        <li>Secret Security Clearance</li>
+        <li>Database Design and Basic SQL in PostgreSQL (Coursera)</li>
+        <li>Jira Fundamentals (Atlassian University)</li>
+        
+    </ul>   
+</p>
+  </div>
+  
+    <div class="exp-header">
+      <h3> Professional Experience </h3>
+      </div>
+      
+      <div>
+      <h3>Clicked </h3>
+      <h5>Apprenticeship, Salesforce Administrator</h5>
+      <h6>September 2023 – October 2023</h6>
+      
+       <ul>
+         <li>Collaborated with team members using the Agile methodology; efficiently organized and prioritized tasks in Jira to ensure timely project execution.</li>
+         <li>Built and refined user stories to effectively communicate essential solution criteria.</li>
+         <li>Streamlined financial approval on large corporate opportunities to accelerate deal closure.</li>
+         <li>Pioneered the creation of an alert system to proactively monitor the progress of opportunities, ensuring that viable prospects aren't overlooked.</li>
+       </ul>
+        
+        <h3> Allegiant Giving </h3>
+      <h5>Intern, Salesforce Training Program Lead</h5>
+      <h6>March 2023 – August 2023</h6>
+      
+       <ul>
+         <li>Assumed the role of chief liaison for Salesforce trainees, exhibiting a swift and efficient approach to troubleshooting and resolving user inquiries.</li>
+         <li>Effectively organized and tracked program participants' transitions through various stages, including enrollment, onboarding, program progression, and graduation, while also maintaining detailed records of their personal development activities.</li>
+         <li>Revamped course materials through a comprehensive evaluation, resulting in a reported 35% improvement in the learning experience for program participants.</li>
+         
+       </ul>
+        
+        <h3>U.S. Army </h3>
+      <h5>Healthcare Specialist, Team Lead</h5>
+      <h6>August 2019 – August 2023</h6>
+      
+       <ul>
+         <li>Developed and executed monthly healthcare training initiatives, assuring sustained competence in vital medical proficiencies among a 50-member company.</li>
+         <li>Directed and supervised five medical experts, proficiently managing emergency services for three recurring Army training initiatives attended by an average of 300 trainees.</li>
+         <li>Meticulously updated mission-critical data within the Army's enterprise digital training tracking system, expediting training planning, documentation, and evaluation processes.</li>
+         <li>Proactively advised superiors on procedural enhancements, encompassing training protocols and seamless personnel assimilation, further bolstering overall operational efficacy.</li>
+       </ul>
+        
+      
+         </div>
+    
+    <div class="exp-header">
+      <h3> Education </h3>
+      </div>
+    
+ <div>
+   <h5>Bachelor of Science in Biological Sciences </h5>
+   <h6>Arizona State University | Expected - April 2025 | GPA: 4.0</h6>
+    <h5>Associate of Arts in Liberal Arts and Science</h5>
+   <h6>Wenatchee Valley College | June 2019 | GPA: 3.97</h6>
+    </div>
+  </div>
+      </body>
+      
