@@ -1,1 +1,39 @@
+body {
+    background-image: url('https://img.freepik.com/free-photo/honeycomb-texture_1127-373.jpg?w=360'); 
+ color: 
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 15%;
+  
+  
+  
+  
+}
+
+.firstblock {
+  background-color: #F6E0D4
+  
+  
+}
+
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  background-color: #BACFCB
+  
+  
+}
+
+.certifications {
+    
+    column-count: 2;
+    column-gap: 20px; 
+}
+
+
+
+.bodyody {
+  background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f04d2786c16b18e1ee49ca8128b65221'); 
+}
 
