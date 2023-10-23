@@ -1,39 +1,51 @@
 body {
     background-image: url('https://img.freepik.com/free-photo/honeycomb-texture_1127-373.jpg?w=360'); 
+
  color: 
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 15%;
   
   
-  
-  
 }
 
-.firstblock {
-  background-color: #F6E0D4
-  
-  
+
+
+.contact {
+  border-bottom: 1px solid black
 }
 
 .exp-header {
-  text-align: center;
+    text-align: center;
   text-transform: uppercase;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
-  background-color: #BACFCB
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  
+  background-image: url('https://cdn.pixabay.com/photo/2015/09/13/02/30/gold-937640_1280.jpg'); 
   
   
 }
 
-.certifications {
-    
-    column-count: 2;
-    column-gap: 20px; 
+.certifications ul {
+   list-style-type: none;
+   text-align: center
+   
 }
+
 
 
 
 .bodyody {
   background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f04d2786c16b18e1ee49ca8128b65221'); 
+  border-radius: 25px;
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 1000px;
+  height: 1500px;
 }
 
+.education {
+  text-align: center;
+}
