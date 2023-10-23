@@ -7,14 +7,15 @@
 <body>
   
   <div class="bodyody">
-  <div class="firstblock">
-    <header>
+ 
+   
   <h1> Nancy Carr</h1>
+</head>
     <address class="contact">
       San Antonio, TX | nancy.l.carr2@gmail.com <a href = "mailto: nancy.l.carr2@gmail.com">Email Me!</a> | 509-699-0432 | <a href="https://linkedin.com/in/nancy-l-carr">LinkedIn</a> | <a href="https://salesforce.com/trailblazer/nancycarr">Trailhead</a>
  | <a href="https://linkedin.com/in/nancy-l-carr">LinkedIn</a> | <a href="https://myportfolio5-dev-ed.develop.my.site.com/nancycarr/s/">Salesforce Portfolio</a> 
       </address>
-      </header>
+      
       
      <div id="typing-effect">
   
@@ -22,7 +23,7 @@
     <script src="script.js"></script>
   
     
-       </div>
+       
     </div>
  
    <div class="exp-header">
