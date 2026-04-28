@@ -13,9 +13,16 @@ body {
 }
 
 /* NAV */
+
 nav {
     background-color: #4A5D4A;
-    padding: 15px 20px;
+    padding: 15px 0;
+}
+
+.nav-container {
+    max-width: 900px;      /* controls how wide it is */
+    margin: 0 auto;        /* centers it */
+    padding: 0 20px;       /* small side spacing */
     display: flex;
     justify-content: space-between;
     align-items: center;
