@@ -97,3 +97,12 @@ footer {
         border-bottom: 1px solid #4A5D4A;
         padding-bottom: 5px;
     }
+
+.climbing-picture {
+    width: 250px;              
+    height: 250px;
+    object-fit: cover;         
+    border-radius: 12px;       
+    display: block;
+    margin: 20px auto;         
+}
