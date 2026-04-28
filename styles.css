@@ -98,13 +98,23 @@ footer {
         padding-bottom: 5px;
     }
 
+.climbing-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
 .climbing-picture {
-    width: 250px;              
+    width: 250px;
     height: 250px;
-    object-fit: cover;         
-    border-radius: 12px;       
+    object-fit: cover;
+    border-radius: 12px;
     display: block;
-    margin: 20px auto;         
+    margin: 0 auto;
+}
+
+.caption {
+    margin-top: 8px;
+    font-size: 14px;
 }
 
     .resume-section {
