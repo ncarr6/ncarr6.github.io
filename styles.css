@@ -12,7 +12,7 @@ body {
     text-align: center;
 }
 
-/* NAV */
+
 
 nav {
     background-color: #4A5D4A;
@@ -50,7 +50,7 @@ nav {
     text-decoration: underline;
 }
 
-/* MAIN */
+
 
 main {
     flex: 1;
@@ -59,15 +59,15 @@ main {
     padding: 20px;      
 }
 
-/* IMAGE */
+
 img {
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
 }
 
-/* FOOTER */
+
 footer {
     padding: 20px;
 }
