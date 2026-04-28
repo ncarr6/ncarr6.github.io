@@ -142,3 +142,31 @@ footer {
         margin: 5px 0;
         font-size: 14px;
     }
+
+
+/* Contact buttons */
+.buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.buttons a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 18px;
+    background-color: #FAF9F6; 
+    color: #4A5D4A;
+    text-decoration: none;
+    border-radius: 20px;        
+    border: 1px solid #4A5D4A;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+
+.buttons a:hover {
+    background-color: #4A5D4A;
+    color: #F5F5DC;
+    transform: translateY(-2px);  
+}
