@@ -51,8 +51,12 @@ nav {
 }
 
 /* MAIN */
+
 main {
     flex: 1;
+    max-width: 900px;   /* controls width */
+    margin: 0 auto;     /* centers it */
+    padding: 20px;      /* breathing room */
 }
 
 /* IMAGE */
