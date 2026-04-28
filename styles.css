@@ -20,16 +20,13 @@ nav {
 }
 
 .nav-container {
-    max-width: 900px;      /* controls how wide it is */
-    margin: 0 auto;        /* centers it */
-    padding: 0 20px;       /* small side spacing */
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
 
-.nav-links a.active {
-    text-decoration: underline;
+    display: flex;              /* IMPORTANT */
+    justify-content: space-between;  /* pushes name left, links right */
+    align-items: center;
 }
 
 .nav-name {
@@ -44,6 +41,9 @@ nav {
     margin-left: 15px;
     text-decoration: none;
     font-weight: bold;
+}
+.nav-links a.active {
+    text-decoration: underline;
 }
 
 .nav-links a:hover {
