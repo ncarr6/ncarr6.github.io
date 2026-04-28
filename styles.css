@@ -171,3 +171,7 @@ footer {
     color: #F5F5DC;
     transform: translateY(-2px);  
 }
+
+.message-icon {
+    margin-bottom: 15px;
+}
