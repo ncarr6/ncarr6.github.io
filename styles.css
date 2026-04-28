@@ -152,6 +152,7 @@ footer {
 }
 
 .buttons a {
+    background-color: red;
     display: inline-block;
     margin: 10px;
     padding: 10px 18px;
